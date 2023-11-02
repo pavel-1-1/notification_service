@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="faang.school.notificationservice.messageBuilder.AchievementMessageBuilderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-18T11:10:13" hostname="DESKTOP-T5134UM" time="0.844">
+  <properties/>
+  <testcase name="buildMessageTest()" classname="faang.school.notificationservice.messageBuilder.AchievementMessageBuilderTest" time="0.844"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
